@@ -1,6 +1,7 @@
-# <PROJECT_NAME>
+# Ape Ankr Plugin
 
-TODO: Description
+Ankr provider plugins for Ethereum-based networks. Only supports free RPCs for
+now.
 
 ## Dependencies
 
